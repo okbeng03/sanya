@@ -1,0 +1,21 @@
+{
+  "name": "sanya",
+  "version": "0.0.1",
+  "description": "前龙的酒店爬虫",
+  "author": "changbin.wangcb",
+  "private": true,
+  "scripts": {
+    "start": "node runner.js"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "chromedriver": "^2.36.0",
+    "cross-spawn": "^6.0.5",
+    "nightwatch": "^0.9.20",
+    "selenium-server": "^3.11.0",
+    "xlsx": "^0.12.5"
+  },
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}
