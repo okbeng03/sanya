@@ -3,7 +3,7 @@ module.exports = {
   output_folder: 'reports',
   test_workers: {
     enabled: true,
-    workers: 5
+    workers: 'auto'
   },
   selenium: {
     start_process: true,

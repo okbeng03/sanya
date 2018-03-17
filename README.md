@@ -52,3 +52,6 @@ https://h5.m.taobao.com/trip/hotel/searchlist/index.html?_projVer=1.0.12&isOneSe
 
 ## 结果
 目录：`/result/craw.xslx`
+
+## 排查
+* 可能会出现某个酒店查不到结果的情况，这时候可以自己去飞猪按给的条件搜索，看是否能查到结果，如果不能就检查下是否酒店名字有错
