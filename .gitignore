@@ -1,7 +1,7 @@
 node_modules/
 screenshots/
 reports/
-result/
+result/*.json
 .idea/
 .rpt2_cache/
 .nyc_output/
